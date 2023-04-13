@@ -488,6 +488,17 @@
       "1.11.0-1"
     ]
   },
+  "flatcc": {
+    "dependency_names": [
+      "flatcc"
+    ],
+    "program_names": [
+      "flatcc",
+    ],
+    "versions": [
+      "0.6.1-1"
+    ]
+  },
   "fluidsynth": {
     "dependency_names": [
       "fluidsynth"
